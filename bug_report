@@ -1,9 +1,9 @@
 <skillz_list>
-<z>1. Заголовок ошибки - Отсутствует экран приветствия при открытии сайта
-2. Описание ошибки - при входе на сайт отсутствует приветственное окно
-3. Начальные условия - открыт любой браузер
-4. Шаги воспроизведения - перейти на главную страницу сайта (по ссылке или через иконку в избранном)
-5. Ожидаемый результат - при открытии главной страницы вас встречает попап с приветствием
-6. Фактический результат - попап приветствия не появляется 
-7. Вложения /гуглдок</z>
+<z>1. Error Title - Missing welcome screen when opening site
+2. Description of the error - there is no welcome window when entering the site
+3. Initial conditions - any browser is open
+4. Playback steps - go to the main page of the site (by link or through the icon in favorites)
+5. Expected result - when you open the main page, you are greeted by a pop-up with a greeting
+6. Actual Result - Welcome Popup Doesn't Appear
+7. Attachments /Googledoc</z>
 </skillz_list>
